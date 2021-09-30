@@ -1,9 +1,99 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
-    }
+    "aggregation": {
+      "type": "",
+      "components": []
+    },
+    "ancestors": [
+      {
+        "id": "9ecfb2b7-f17e-473e-afcf-9a44e15a289a",
+        "label": "PLANT",
+        "color": "#ff6b13",
+        "criticalness": 3,
+        "locked": false,
+        "depth": 1
+      }
+    ],
+    "credentialsCount": 0,
+    "customLabel": "",
+    "device": {
+      "id": "cf13ebeb-67e1-2ea8-995d-60f4e743d151",
+      "deviceType": "",
+      "isDevice": true,
+      "label": "1734-AENTR/B Ethernet Adapter",
+      "originalLabel": "1734-AENTR/B Ethernet Adapter",
+      "customLabel": "",
+      "ip": null,
+      "mac": null,
+      "tags": [],
+      "group": null,
+      "icon": "library/default.svg",
+      "situation": ""
+    },
+    "eventsCount": 3,
+    "firstActivity": 1618924807218,
+    "flowsCount": 1,
+    "flowsTags": [],
+    "group": {
+      "id": "7b66da67-e72f-4c9b-b16d-f18eb85ced39",
+      "label": "Paint_Line_2",
+      "description": "",
+      "comments": "",
+      "color": "#06a2c9",
+      "criticalness": 3,
+      "locked": false,
+      "groupIds": null,
+      "centerID": ""
+    },
+    "icon": "library/rockwell.svg",
+    "id": "d2c6279e-01ce-54a4-bbc8-ec583e420eaf",
+    "ip": "192.168.249.51",
+    "label": "Empty (Port3-Link3f)",
+    "lastActivity": 1628085072227,
+    "mac": "f4:54:33:a4:28:13",
+    "normalizedProperties": [
+      {
+        "key": "ip",
+        "value": "192.168.249.51"
+      },
+      {
+        "key": "mac",
+        "value": "f4:54:33:a4:28:13"
+      },
+      {
+        "key": "name",
+        "value": "Empty (Port3-Link3f)"
+      },
+      {
+        "key": "public-ip",
+        "value": "no"
+      },
+      {
+        "key": "vendor-name",
+        "value": "Rockwell Automation"
+      }
+    ],
+    "originalLabel": "Empty (Port3-Link3f)",
+    "otherProperties": [
+      {
+        "key": "enip-location",
+        "value": "Port3-Link3f"
+      },
+      {
+        "key": "name-enip",
+        "value": "Empty (Port3-Link3f)"
+      },
+      {
+        "key": "vendor",
+        "value": "Rockwell Automation"
+      }
+    ],
+    "requestsCount": 0,
+    "tags": [],
+    "variablesCount": 0,
+    "vulnerabilitiesCount": 0
+  }
   ],
   "profile": {
     "name": "typicode"
