@@ -1,297 +1,312 @@
 {
-  "posts": [
-    {
-    "ancestors": [
+   "posts":[
       {
-        "id": "9ecfb2b7-f17e-473e-afcf-9a44e15a289a",
-        "label": "PLANT",
-        "color": "#ff6b13",
-        "criticalness": 3,
-        "locked": false,
-        "depth": 1
+         "ancestors":[
+            {
+               "id":"9ecfb2b7-f17e-473e-afcf-9a44e15a289a",
+               "label":"PLANT",
+               "color":"#ff6b13",
+               "criticalness":3,
+               "locked":false,
+               "depth":1
+            }
+         ],
+         "eventsCount":3,
+         "firstActivity":1618924807218,
+         "group":{
+            "id":"7b66da67-e72f-4c9b-b16d-f18eb85ced39",
+            "label":"Paint_Line_2",
+            "description":"",
+            "comments":"",
+            "color":"#06a2c9",
+            "criticalness":3,
+            "locked":false,
+            "groupIds":null,
+            "centerID":""
+         },
+         "id":"d2c6279e-01ce-54a4-bbc8-ec583e420eaf",
+         "ip":"192.168.249.51",
+         "label":"Empty (Port3-Link3f)",
+         "lastActivity":1628085072227,
+         "mac":"f4:54:33:a4:28:13",
+         "normalizedProperties":[
+            {
+               "key":"ip",
+               "value":"192.168.249.51"
+            },
+            {
+               "key":"mac",
+               "value":"f4:54:33:a4:28:13"
+            },
+            {
+               "key":"name",
+               "value":"Empty (Port3-Link3f)"
+            },
+            {
+               "key":"public-ip",
+               "value":"no"
+            },
+            {
+               "key":"vendor-name",
+               "value":"Rockwell Automation"
+            }
+         ],
+         "tags":[
+            
+         ],
+         "variablesCount":0,
+         "vulnerabilitiesCount":0
+      },
+      {
+         "ancestors":null,
+         "credentialsCount":0,
+         "customLabel":"",
+         "eventsCount":2,
+         "firstActivity":1564723737885,
+         "flowsCount":4,
+         "flowsTags":[
+            
+         ],
+         "group":null,
+         "icon":"library/default.svg",
+         "id":"302fdfb3-63fd-56e2-9bdb-3a13dd35c92c",
+         "ip":"",
+         "label":"fe:54:00:9f:74:a2",
+         "lastActivity":1628085072227,
+         "mac":"fe:54:00:9f:74:a2",
+         "normalizedProperties":[
+            {
+               "key":"mac",
+               "value":"fe:54:00:9f:74:a2"
+            },
+            {
+               "key":"name",
+               "value":"fe:54:00:9f:74:a2"
+            }
+         ],
+         "originalLabel":"fe:54:00:9f:74:a2",
+         "requestsCount":0,
+         "tags":[
+            
+         ],
+         "variablesCount":0,
+         "vulnerabilitiesCount":0
+      },
+      {
+         "ancestors":null,
+         "credentialsCount":0,
+         "customLabel":"",
+         "eventsCount":29,
+         "firstActivity":1564723959304,
+         "flowsCount":19,
+         "flowsTags":[
+            
+         ],
+         "group":{
+            "id":"f278b155-a8b6-4f9b-b5d5-3d9656018bfb",
+            "label":"[Manheim] Furnace",
+            "description":"",
+            "comments":"",
+            "color":"#06a2c9",
+            "criticalness":0,
+            "locked":false,
+            "groupIds":null,
+            "centerID":""
+         },
+         "icon":"library/yokogawa-scs.png",
+         "id":"1401dcff-e097-52a5-921d-ea5c3c4e3fe6",
+         "ip":"192.168.1.5",
+         "label":"SCS0102",
+         "lastActivity":1628085072227,
+         "mac":"00:00:64:8c:86:34",
+         "normalizedProperties":[
+            {
+               "key":"fw-version",
+               "value":"3.02.20"
+            },
+            {
+               "key":"ip",
+               "value":"192.168.1.5"
+            },
+            {
+               "key":"mac",
+               "value":"00:00:64:8c:86:34"
+            },
+            {
+               "key":"model-name",
+               "value":"SSC50D-F"
+            },
+            {
+               "key":"name",
+               "value":"SCS0102"
+            },
+            {
+               "key":"public-ip",
+               "value":"no"
+            },
+            {
+               "key":"vendor-name",
+               "value":"Yokogawa Digital Computer Corporation"
+            }
+         ],
+         "originalLabel":"SCS0102",
+         "requestsCount":0,
+         "tags":[
+            {
+               "id":"CLOCK_SERVER",
+               "label":"Time Server",
+               "important":false,
+               "category":{
+                  "id":"92869ccb-faff-5654-8a3c-f1648152f8d0",
+                  "label":"Device - Level 3-4"
+               }
+            },
+            {
+               "id":"PLC",
+               "label":"Controller",
+               "important":false,
+               "category":{
+                  "id":"43d1102e-037b-512d-8404-f26021ca6274",
+                  "label":"Device - Level 2"
+               }
+            }
+         ],
+         "variablesCount":0,
+         "vulnerabilitiesCount":15
+      },
+      {
+         "ancestors":null,
+         "credentialsCount":0,
+         "customLabel":"",
+         "eventsCount":5,
+         "firstActivity":1564723736761,
+         "flowsCount":2,
+         "flowsTags":[
+            
+         ],
+         "group":null,
+         "icon":"library/cisco.svg",
+         "id":"e788daee-a66e-5c3f-bb1d-9ec109d9bab3",
+         "ip":"",
+         "label":"GICS 00:0d:29:d8:ac:53",
+         "lastActivity":1628085072227,
+         "mac":"00:0d:29:d8:ac:53",
+         "normalizedProperties":[
+            {
+               "key":"mac",
+               "value":"00:0d:29:d8:ac:53"
+            },
+            {
+               "key":"name",
+               "value":"GICS 00:0d:29:d8:ac:53"
+            },
+            {
+               "key":"vendor-name",
+               "value":"Cisco Systems, Inc"
+            }
+         ],
+         "originalLabel":"GICS 00:0d:29:d8:ac:53",
+         "requestsCount":0,
+         "tags":[
+            
+         ],
+         "variablesCount":0,
+         "vulnerabilitiesCount":14
+      },
+      {
+         "ancestors":[
+            {
+               "id":"9ecfb2b7-f17e-473e-afcf-9a44e15a289a",
+               "label":"PLANT",
+               "color":"#ff6b13",
+               "criticalness":3,
+               "locked":false,
+               "depth":1
+            }
+         ],
+         "credentialsCount":0,
+         "customLabel":"",
+         "eventsCount":7,
+         "firstActivity":1618924807045,
+         "flowsCount":1,
+         "flowsTags":[
+            
+         ],
+         "group":{
+            "id":"0fc7c443-6d8c-435e-8aa3-fa587ad06fc9",
+            "label":"CELL-1",
+            "description":"",
+            "comments":"",
+            "color":"#06a2c9",
+            "criticalness":3,
+            "locked":false,
+            "groupIds":null,
+            "centerID":""
+         },
+         "icon":"library/rockwell_enip.svg",
+         "id":"e06079fc-f8c8-57f7-a6af-5fd9eedb7f2d",
+         "ip":"192.168.249.50",
+         "label":"SecDemo_LinePLC | 1769-L16ER/B LOGIX5316ER",
+         "lastActivity":1628085072227,
+         "mac":"f4:54:33:91:cb:ee",
+         "normalizedProperties":[
+            {
+               "key":"fw-version",
+               "value":"31.011"
+            },
+            {
+               "key":"ip",
+               "value":"192.168.249.50"
+            },
+            {
+               "key":"mac",
+               "value":"f4:54:33:91:cb:ee"
+            },
+            {
+               "key":"model-ref",
+               "value":"1769-L16ER/B LOGIX5316ER"
+            },
+            {
+               "key":"name",
+               "value":"SecDemo_LinePLC | 1769-L16ER/B LOGIX5316ER"
+            },
+            {
+               "key":"public-ip",
+               "value":"no"
+            },
+            {
+               "key":"serial-number",
+               "value":"60771949"
+            },
+            {
+               "key":"vendor-name",
+               "value":"Rockwell Automation"
+            }
+         ],
+         "originalLabel":"SecDemo_LinePLC | 1769-L16ER/B LOGIX5316ER",
+         "requestsCount":0,
+         "tags":[
+            {
+               "id":"PLC",
+               "label":"Controller",
+               "important":false,
+               "category":{
+                  "id":"43d1102e-037b-512d-8404-f26021ca6274",
+                  "label":"Device - Level 2"
+               }
+            },
+            {
+               "id":"ROCKWELL_AUTOMATION",
+               "label":"Rockwell Automation",
+               "important":false,
+               "category":{
+                  "id":"feebd529-0323-5eee-a3b3-aa8b471a293b",
+                  "label":"System"
+               }
+            }
+         ],
+         "variablesCount":0,
+         "vulnerabilitiesCount":10
       }
-    ],
-    "eventsCount": 3,
-    "firstActivity": 1618924807218,
-    "group": {
-      "id": "7b66da67-e72f-4c9b-b16d-f18eb85ced39",
-      "label": "Paint_Line_2",
-      "description": "",
-      "comments": "",
-      "color": "#06a2c9",
-      "criticalness": 3,
-      "locked": false,
-      "groupIds": null,
-      "centerID": ""
-    },
-    "id": "d2c6279e-01ce-54a4-bbc8-ec583e420eaf",
-    "ip": "192.168.249.51",
-    "label": "Empty (Port3-Link3f)",
-    "lastActivity": 1628085072227,
-    "mac": "f4:54:33:a4:28:13",
-    "normalizedProperties": [
-      {
-        "key": "ip",
-        "value": "192.168.249.51"
-      },
-      {
-        "key": "mac",
-        "value": "f4:54:33:a4:28:13"
-      },
-      {
-        "key": "name",
-        "value": "Empty (Port3-Link3f)"
-      },
-      {
-        "key": "public-ip",
-        "value": "no"
-      },
-      {
-        "key": "vendor-name",
-        "value": "Rockwell Automation"
-      }
-    ],
-    "tags": [],
-    "variablesCount": 0,
-    "vulnerabilitiesCount": 0
-  },{
-    "ancestors": null,
-    "credentialsCount": 0,
-    "customLabel": "",
-    "eventsCount": 2,
-    "firstActivity": 1564723737885,
-    "flowsCount": 4,
-    "flowsTags": [],
-    "group": null,
-    "icon": "library/default.svg",
-    "id": "302fdfb3-63fd-56e2-9bdb-3a13dd35c92c",
-    "ip": "",
-    "label": "fe:54:00:9f:74:a2",
-    "lastActivity": 1628085072227,
-    "mac": "fe:54:00:9f:74:a2",
-    "normalizedProperties": [
-      {
-        "key": "mac",
-        "value": "fe:54:00:9f:74:a2"
-      },
-      {
-        "key": "name",
-        "value": "fe:54:00:9f:74:a2"
-      }
-    ],
-    "originalLabel": "fe:54:00:9f:74:a2",
-    "requestsCount": 0,
-    "tags": [],
-    "variablesCount": 0,
-    "vulnerabilitiesCount": 0
-  },
-  {
-    "ancestors": null,
-    "credentialsCount": 0,
-    "customLabel": "",
-    "eventsCount": 29,
-    "firstActivity": 1564723959304,
-    "flowsCount": 19,
-    "flowsTags": [],
-    "group": {
-      "id": "f278b155-a8b6-4f9b-b5d5-3d9656018bfb",
-      "label": "[Manheim] Furnace",
-      "description": "",
-      "comments": "",
-      "color": "#06a2c9",
-      "criticalness": 0,
-      "locked": false,
-      "groupIds": null,
-      "centerID": ""
-    },
-    "icon": "library/yokogawa-scs.png",
-    "id": "1401dcff-e097-52a5-921d-ea5c3c4e3fe6",
-    "ip": "192.168.1.5",
-    "label": "SCS0102",
-    "lastActivity": 1628085072227,
-    "mac": "00:00:64:8c:86:34",
-    "normalizedProperties": [
-      {
-        "key": "fw-version",
-        "value": "3.02.20"
-      },
-      {
-        "key": "ip",
-        "value": "192.168.1.5"
-      },
-      {
-        "key": "mac",
-        "value": "00:00:64:8c:86:34"
-      },
-      {
-        "key": "model-name",
-        "value": "SSC50D-F"
-      },
-      {
-        "key": "name",
-        "value": "SCS0102"
-      },
-      {
-        "key": "public-ip",
-        "value": "no"
-      },
-      {
-        "key": "vendor-name",
-        "value": "Yokogawa Digital Computer Corporation"
-      }
-    ],
-    "originalLabel": "SCS0102",
-    "requestsCount": 0,
-    "tags": [
-      {
-        "id": "CLOCK_SERVER",
-        "label": "Time Server",
-        "important": false,
-        "category": {
-          "id": "92869ccb-faff-5654-8a3c-f1648152f8d0",
-          "label": "Device - Level 3-4"
-        }
-      },
-      {
-        "id": "PLC",
-        "label": "Controller",
-        "important": false,
-        "category": {
-          "id": "43d1102e-037b-512d-8404-f26021ca6274",
-          "label": "Device - Level 2"
-        }
-      }
-    ],
-    "variablesCount": 0,
-    "vulnerabilitiesCount": 15
-  },
-  {
-    "ancestors": null,
-    "credentialsCount": 0,
-    "customLabel": "",
-    "eventsCount": 5,
-    "firstActivity": 1564723736761,
-    "flowsCount": 2,
-    "flowsTags": [],
-    "group": null,
-    "icon": "library/cisco.svg",
-    "id": "e788daee-a66e-5c3f-bb1d-9ec109d9bab3",
-    "ip": "",
-    "label": "GICS 00:0d:29:d8:ac:53",
-    "lastActivity": 1628085072227,
-    "mac": "00:0d:29:d8:ac:53",
-    "normalizedProperties": [
-      {
-        "key": "mac",
-        "value": "00:0d:29:d8:ac:53"
-      },
-      {
-        "key": "name",
-        "value": "GICS 00:0d:29:d8:ac:53"
-      },
-      {
-        "key": "vendor-name",
-        "value": "Cisco Systems, Inc"
-      }
-    ],
-    "originalLabel": "GICS 00:0d:29:d8:ac:53",
-    "requestsCount": 0,
-    "tags": [],
-    "variablesCount": 0,
-    "vulnerabilitiesCount": 14
-  },
-{
-    "ancestors": [
-      {
-        "id": "9ecfb2b7-f17e-473e-afcf-9a44e15a289a",
-        "label": "PLANT",
-        "color": "#ff6b13",
-        "criticalness": 3,
-        "locked": false,
-        "depth": 1
-      }
-    ],
-    "credentialsCount": 0,
-    "customLabel": "",
-    "eventsCount": 7,
-    "firstActivity": 1618924807045,
-    "flowsCount": 1,
-    "flowsTags": [],
-    "group": {
-      "id": "0fc7c443-6d8c-435e-8aa3-fa587ad06fc9",
-      "label": "CELL-1",
-      "description": "",
-      "comments": "",
-      "color": "#06a2c9",
-      "criticalness": 3,
-      "locked": false,
-      "groupIds": null,
-      "centerID": ""
-    },
-    "icon": "library/rockwell_enip.svg",
-    "id": "e06079fc-f8c8-57f7-a6af-5fd9eedb7f2d",
-    "ip": "192.168.249.50",
-    "label": "SecDemo_LinePLC | 1769-L16ER/B LOGIX5316ER",
-    "lastActivity": 1628085072227,
-    "mac": "f4:54:33:91:cb:ee",
-    "normalizedProperties": [
-      {
-        "key": "fw-version",
-        "value": "31.011"
-      },
-      {
-        "key": "ip",
-        "value": "192.168.249.50"
-      },
-      {
-        "key": "mac",
-        "value": "f4:54:33:91:cb:ee"
-      },
-      {
-        "key": "model-ref",
-        "value": "1769-L16ER/B LOGIX5316ER"
-      },
-      {
-        "key": "name",
-        "value": "SecDemo_LinePLC | 1769-L16ER/B LOGIX5316ER"
-      },
-      {
-        "key": "public-ip",
-        "value": "no"
-      },
-      {
-        "key": "serial-number",
-        "value": "60771949"
-      },
-      {
-        "key": "vendor-name",
-        "value": "Rockwell Automation"
-      }
-    ],
-    "originalLabel": "SecDemo_LinePLC | 1769-L16ER/B LOGIX5316ER",
-    "requestsCount": 0,
-    "tags": [
-      {
-        "id": "PLC",
-        "label": "Controller",
-        "important": false,
-        "category": {
-          "id": "43d1102e-037b-512d-8404-f26021ca6274",
-          "label": "Device - Level 2"
-        }
-      },
-      {
-        "id": "ROCKWELL_AUTOMATION",
-        "label": "Rockwell Automation",
-        "important": false,
-        "category": {
-          "id": "feebd529-0323-5eee-a3b3-aa8b471a293b",
-          "label": "System"
-        }
-      }
-    ],
-    "variablesCount": 0,
-    "vulnerabilitiesCount": 10
-  }
-]
+   ]
 }
