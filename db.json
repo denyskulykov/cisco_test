@@ -325,6 +325,167 @@
     "tags": [],
     "variablesCount": 0,
     "vulnerabilitiesCount": 14
+  },
+{
+    "aggregation": {
+      "type": "",
+      "components": []
+    },
+    "ancestors": [
+      {
+        "id": "9ecfb2b7-f17e-473e-afcf-9a44e15a289a",
+        "label": "PLANT",
+        "color": "#ff6b13",
+        "criticalness": 3,
+        "locked": false,
+        "depth": 1
+      }
+    ],
+    "credentialsCount": 0,
+    "customLabel": "",
+    "device": {
+      "id": "09a49175-210f-96bc-7e59-1778b830b5fe",
+      "deviceType": "",
+      "isDevice": true,
+      "label": "SecDemo_LinePLC | 1769-L16ER/B LOGIX5316ER",
+      "originalLabel": "SecDemo_LinePLC | 1769-L16ER/B LOGIX5316ER",
+      "customLabel": "",
+      "ip": null,
+      "mac": null,
+      "tags": [],
+      "group": null,
+      "icon": "library/default.svg",
+      "situation": ""
+    },
+    "eventsCount": 7,
+    "firstActivity": 1618924807045,
+    "flowsCount": 1,
+    "flowsTags": [],
+    "group": {
+      "id": "0fc7c443-6d8c-435e-8aa3-fa587ad06fc9",
+      "label": "CELL-1",
+      "description": "",
+      "comments": "",
+      "color": "#06a2c9",
+      "criticalness": 3,
+      "locked": false,
+      "groupIds": null,
+      "centerID": ""
+    },
+    "icon": "library/rockwell_enip.svg",
+    "id": "e06079fc-f8c8-57f7-a6af-5fd9eedb7f2d",
+    "ip": "192.168.249.50",
+    "label": "SecDemo_LinePLC | 1769-L16ER/B LOGIX5316ER",
+    "lastActivity": 1628085072227,
+    "mac": "f4:54:33:91:cb:ee",
+    "normalizedProperties": [
+      {
+        "key": "fw-version",
+        "value": "31.011"
+      },
+      {
+        "key": "ip",
+        "value": "192.168.249.50"
+      },
+      {
+        "key": "mac",
+        "value": "f4:54:33:91:cb:ee"
+      },
+      {
+        "key": "model-ref",
+        "value": "1769-L16ER/B LOGIX5316ER"
+      },
+      {
+        "key": "name",
+        "value": "SecDemo_LinePLC | 1769-L16ER/B LOGIX5316ER"
+      },
+      {
+        "key": "public-ip",
+        "value": "no"
+      },
+      {
+        "key": "serial-number",
+        "value": "60771949"
+      },
+      {
+        "key": "vendor-name",
+        "value": "Rockwell Automation"
+      }
+    ],
+    "originalLabel": "SecDemo_LinePLC | 1769-L16ER/B LOGIX5316ER",
+    "otherProperties": [
+      {
+        "key": "enip-cpuname",
+        "value": "SecDemo_LinePLC"
+      },
+      {
+        "key": "enip-devicetype",
+        "value": "ProgrammableLogicController"
+      },
+      {
+        "key": "enip-location",
+        "value": "Port1-Link00"
+      },
+      {
+        "key": "enip-name",
+        "value": "1769-L16ER/B LOGIX5316ER"
+      },
+      {
+        "key": "enip-productcode",
+        "value": "0x99"
+      },
+      {
+        "key": "enip-serial",
+        "value": "60771949"
+      },
+      {
+        "key": "enip-status-ra-major",
+        "value": "REM"
+      },
+      {
+        "key": "enip-status-ra-minor",
+        "value": "RUN"
+      },
+      {
+        "key": "enip-vendor",
+        "value": "Rockwell Automation/Allen-Bradley"
+      },
+      {
+        "key": "enip-version",
+        "value": "31.011"
+      },
+      {
+        "key": "name-enip",
+        "value": "SecDemo_LinePLC | 1769-L16ER/B LOGIX5316ER"
+      },
+      {
+        "key": "vendor",
+        "value": "Rockwell Automation"
+      }
+    ],
+    "requestsCount": 0,
+    "tags": [
+      {
+        "id": "PLC",
+        "label": "Controller",
+        "important": false,
+        "category": {
+          "id": "43d1102e-037b-512d-8404-f26021ca6274",
+          "label": "Device - Level 2"
+        }
+      },
+      {
+        "id": "ROCKWELL_AUTOMATION",
+        "label": "Rockwell Automation",
+        "important": false,
+        "category": {
+          "id": "feebd529-0323-5eee-a3b3-aa8b471a293b",
+          "label": "System"
+        }
+      }
+    ],
+    "variablesCount": 0,
+    "vulnerabilitiesCount": 10
   }
 ],
   "profile": {
