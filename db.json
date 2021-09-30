@@ -1,4 +1,5 @@
-[
+{
+  "components": [
   {
     "aggregation": {
       "type": "",
@@ -93,4 +94,9 @@
     "variablesCount": 0,
     "vulnerabilitiesCount": 0
   }
-]
+],
+  "profile": {
+    "name": "typicode"
+  }
+}
+
