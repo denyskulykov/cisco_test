@@ -1,10 +1,5 @@
 {
   "posts": [
-    {
-    "aggregation": {
-      "type": "",
-      "components": []
-    },
     "ancestors": [
       {
         "id": "9ecfb2b7-f17e-473e-afcf-9a44e15a289a",
@@ -15,26 +10,8 @@
         "depth": 1
       }
     ],
-    "credentialsCount": 0,
-    "customLabel": "",
-    "device": {
-      "id": "cf13ebeb-67e1-2ea8-995d-60f4e743d151",
-      "deviceType": "",
-      "isDevice": true,
-      "label": "1734-AENTR/B Ethernet Adapter",
-      "originalLabel": "1734-AENTR/B Ethernet Adapter",
-      "customLabel": "",
-      "ip": null,
-      "mac": null,
-      "tags": [],
-      "group": null,
-      "icon": "library/default.svg",
-      "situation": ""
-    },
     "eventsCount": 3,
     "firstActivity": 1618924807218,
-    "flowsCount": 1,
-    "flowsTags": [],
     "group": {
       "id": "7b66da67-e72f-4c9b-b16d-f18eb85ced39",
       "label": "Paint_Line_2",
@@ -46,7 +23,6 @@
       "groupIds": null,
       "centerID": ""
     },
-    "icon": "library/rockwell.svg",
     "id": "d2c6279e-01ce-54a4-bbc8-ec583e420eaf",
     "ip": "192.168.249.51",
     "label": "Empty (Port3-Link3f)",
@@ -74,34 +50,13 @@
         "value": "Rockwell Automation"
       }
     ],
-    "originalLabel": "Empty (Port3-Link3f)",
-    "otherProperties": [
-      {
-        "key": "enip-location",
-        "value": "Port3-Link3f"
-      },
-      {
-        "key": "name-enip",
-        "value": "Empty (Port3-Link3f)"
-      },
-      {
-        "key": "vendor",
-        "value": "Rockwell Automation"
-      }
-    ],
-    "requestsCount": 0,
     "tags": [],
     "variablesCount": 0,
     "vulnerabilitiesCount": 0
   },{
-    "aggregation": {
-      "type": "",
-      "components": []
-    },
     "ancestors": null,
     "credentialsCount": 0,
     "customLabel": "",
-    "device": null,
     "eventsCount": 2,
     "firstActivity": 1564723737885,
     "flowsCount": 4,
@@ -124,39 +79,15 @@
       }
     ],
     "originalLabel": "fe:54:00:9f:74:a2",
-    "otherProperties": [
-      {
-        "key": "name-mac",
-        "value": "fe:54:00:9f:74:a2"
-      }
-    ],
     "requestsCount": 0,
     "tags": [],
     "variablesCount": 0,
     "vulnerabilitiesCount": 0
   },
   {
-    "aggregation": {
-      "type": "",
-      "components": []
-    },
     "ancestors": null,
     "credentialsCount": 0,
     "customLabel": "",
-    "device": {
-      "id": "e63f4e3c-5cea-1d92-a552-97e0ffdc0114",
-      "deviceType": "",
-      "isDevice": true,
-      "label": "SCS0102",
-      "originalLabel": "SCS0102",
-      "customLabel": "",
-      "ip": null,
-      "mac": null,
-      "tags": [],
-      "group": null,
-      "icon": "library/default.svg",
-      "situation": ""
-    },
     "eventsCount": 29,
     "firstActivity": 1564723959304,
     "flowsCount": 19,
@@ -209,24 +140,6 @@
       }
     ],
     "originalLabel": "SCS0102",
-    "otherProperties": [
-      {
-        "key": "iec62405-model",
-        "value": "SSC50D-F"
-      },
-      {
-        "key": "name-analyzer",
-        "value": "SCS0102"
-      },
-      {
-        "key": "name-vendorip",
-        "value": "Yokogawa 192.168.1.5"
-      },
-      {
-        "key": "vendor",
-        "value": "Yokogawa Digital Computer Corporation"
-      }
-    ],
     "requestsCount": 0,
     "tags": [
       {
@@ -252,27 +165,9 @@
     "vulnerabilitiesCount": 15
   },
   {
-    "aggregation": {
-      "type": "",
-      "components": []
-    },
     "ancestors": null,
     "credentialsCount": 0,
     "customLabel": "",
-    "device": {
-      "id": "c1b77d5d-ad00-6ba4-f850-7cf47ff070f1",
-      "deviceType": "",
-      "isDevice": true,
-      "label": "GICS 00:0d:29:d8:ac:58",
-      "originalLabel": "GICS 00:0d:29:d8:ac:58",
-      "customLabel": "",
-      "ip": null,
-      "mac": null,
-      "tags": [],
-      "group": null,
-      "icon": "library/default.svg",
-      "situation": ""
-    },
     "eventsCount": 5,
     "firstActivity": 1564723736761,
     "flowsCount": 2,
@@ -299,38 +194,12 @@
       }
     ],
     "originalLabel": "GICS 00:0d:29:d8:ac:53",
-    "otherProperties": [
-      {
-        "key": "cdp-device-id",
-        "value": "GICS"
-      },
-      {
-        "key": "cdp-version",
-        "value": "Cisco Internetwork Operating System Software \nIOS (tm) C2950 Software (C2950-I6Q4L2-M), Version 12.1(13)EA1, RELEASE SOFTWARE (fc1)\nCopyright (c) 1986-2003 by cisco Systems, Inc.\nCompiled Tue 04-Mar-03 02:14 by yenanh"
-      },
-      {
-        "key": "name-analyzer",
-        "value": "GICS 00:0d:29:d8:ac:53"
-      },
-      {
-        "key": "name-mac",
-        "value": "Cisco d8:ac:53"
-      },
-      {
-        "key": "vendor",
-        "value": "Cisco Systems, Inc"
-      }
-    ],
     "requestsCount": 0,
     "tags": [],
     "variablesCount": 0,
     "vulnerabilitiesCount": 14
   },
 {
-    "aggregation": {
-      "type": "",
-      "components": []
-    },
     "ancestors": [
       {
         "id": "9ecfb2b7-f17e-473e-afcf-9a44e15a289a",
@@ -343,20 +212,6 @@
     ],
     "credentialsCount": 0,
     "customLabel": "",
-    "device": {
-      "id": "09a49175-210f-96bc-7e59-1778b830b5fe",
-      "deviceType": "",
-      "isDevice": true,
-      "label": "SecDemo_LinePLC | 1769-L16ER/B LOGIX5316ER",
-      "originalLabel": "SecDemo_LinePLC | 1769-L16ER/B LOGIX5316ER",
-      "customLabel": "",
-      "ip": null,
-      "mac": null,
-      "tags": [],
-      "group": null,
-      "icon": "library/default.svg",
-      "situation": ""
-    },
     "eventsCount": 7,
     "firstActivity": 1618924807045,
     "flowsCount": 1,
@@ -413,56 +268,6 @@
       }
     ],
     "originalLabel": "SecDemo_LinePLC | 1769-L16ER/B LOGIX5316ER",
-    "otherProperties": [
-      {
-        "key": "enip-cpuname",
-        "value": "SecDemo_LinePLC"
-      },
-      {
-        "key": "enip-devicetype",
-        "value": "ProgrammableLogicController"
-      },
-      {
-        "key": "enip-location",
-        "value": "Port1-Link00"
-      },
-      {
-        "key": "enip-name",
-        "value": "1769-L16ER/B LOGIX5316ER"
-      },
-      {
-        "key": "enip-productcode",
-        "value": "0x99"
-      },
-      {
-        "key": "enip-serial",
-        "value": "60771949"
-      },
-      {
-        "key": "enip-status-ra-major",
-        "value": "REM"
-      },
-      {
-        "key": "enip-status-ra-minor",
-        "value": "RUN"
-      },
-      {
-        "key": "enip-vendor",
-        "value": "Rockwell Automation/Allen-Bradley"
-      },
-      {
-        "key": "enip-version",
-        "value": "31.011"
-      },
-      {
-        "key": "name-enip",
-        "value": "SecDemo_LinePLC | 1769-L16ER/B LOGIX5316ER"
-      },
-      {
-        "key": "vendor",
-        "value": "Rockwell Automation"
-      }
-    ],
     "requestsCount": 0,
     "tags": [
       {
