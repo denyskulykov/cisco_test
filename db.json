@@ -31,6 +31,15 @@
                "label":"Public IP"
             }
          ],
+         "normalizedProperties":[
+            {
+               "name":"ACTIVE_DIR"
+            },
+            {
+               "vendor - name":"VENDOR_ACTIVE_DIR"
+            }
+            
+         ],
          "variablesCount":0,
          "vulnerabilitiesCount":0
       }
