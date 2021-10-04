@@ -1,38 +1,38 @@
 {
    "posts":[
-   {
-      "aggregation":{
-         "components":[
+      {
+         "aggregation":{
+            "components":[
+               
+            ],
+            "type":""
+         },
+         "ancestors":"None",
+         "credentialsCount":0,
+         "customLabel":"",
+         "device":"None",
+         "eventsCount":3,
+         "firstActivity":1633350215761,
+         "flowsCount":0,
+         "flowsTags":[
             
          ],
-         "type":""
-      },
-      "ancestors":"None",
-      "credentialsCount":0,
-      "customLabel":"",
-      "device":"None",
-      "eventsCount":3,
-      "firstActivity":1633350215761,
-      "flowsCount":0,
-      "flowsTags":[
-         
-      ],
-      "group":"None",
-      "icon":"library/public-ip.svg",
-      "id":"ACTIVE_DIR",
-      "ip":"17.168.25.139",
-      "label":"17.168.25.139",
-      "lastActivity":1633350215761,
-      "mac":"00:1b:1b:13:41:73",
-      "tags":[
-         {
-            "id":"ACTIVE_DIR",
-            "important":false,
-            "label":"Public IP"
-         }
-      ],
-      "variablesCount":0,
-      "vulnerabilitiesCount":0
-   }
-]
+         "group":"None",
+         "icon":"library/public-ip.svg",
+         "id":"ACTIVE_DIR",
+         "ip":"17.168.25.139",
+         "label":"17.168.25.139",
+         "lastActivity":1633350215761,
+         "mac":"00:1b:1b:13:41:73",
+         "tags":[
+            {
+               "id":"ACTIVE_DIR",
+               "important":false,
+               "label":"Public IP"
+            }
+         ],
+         "variablesCount":0,
+         "vulnerabilitiesCount":0
+      }
+   ]
 }
