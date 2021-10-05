@@ -6,11 +6,11 @@
    "eventsCount":3,
    "firstActivity":1633350215761,
    "group":"None",
-   "ip":"17.01.00.12",
+   "ip":"17.01.00.13",
    "label":"Public IP_lable",
    "lastActivity":1633350215761,
-   "mac":"00:1b:1b:13:41:0c",
-   "id":"Public_IP_id_12",
+   "mac":"00:1b:1b:13:41:0d",
+   "id":"Public_IP_id_13",
    "requestsCount":0,
    "tags":[
       {
@@ -22,15 +22,15 @@
    "normalizedProperties":[
       {
          "key":"ip",
-         "value":"17.01.00.12"
+         "value":"17.01.00.13"
       },
       {
          "key":"mac",
-         "value":"00:1b:1b:13:41:0c"
+         "value":"00:1b:1b:13:41:0d"
       },
       {
          "key":"name",
-         "value":"17.168.00.12"
+         "value":"17.168.00.13"
       },
       {
          "key":"public-ip",
