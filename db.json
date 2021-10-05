@@ -1,48 +1,92 @@
 {
    "posts":[
-{
-   "ancestors":"None",
-   "credentialsCount":0,
-   "eventsCount":3,
-   "firstActivity":1633350215761,
-   "group":"None",
-   "ip":"17.01.00.13",
-   "label":"Public IP_lable",
-   "lastActivity":1633350215761,
-   "mac":"00:1b:1b:13:41:0d",
-   "id":"Public_IP_id_13",
-   "requestsCount":0,
-   "tags":[
-      {
-         "id":"Public IP",
-         "important":false,
-         "label":"Public IP_lable"
-      }
-   ],
-   "normalizedProperties":[
-      {
-         "key":"ip",
-         "value":"17.01.00.13"
-      },
-      {
-         "key":"mac",
-         "value":"00:1b:1b:13:41:0d"
-      },
-      {
-         "key":"name",
-         "value":"17.168.00.13"
-      },
-      {
-         "key":"public-ip",
-         "value":"no"
-      },
-      {
-         "key":"vendor-name",
-         "value":"Siemens AG,"
-      }
-   ],
-   "variablesCount":0,
-   "vulnerabilitiesCount":0
-}
- ]
+   {
+      "ancestors":"None",
+      "credentialsCount":0,
+      "eventsCount":3,
+      "firstActivity":1633350215761,
+      "group":"None",
+      "ip":"17.01.00.14",
+      "label":"Public IP_lable",
+      "lastActivity":1633350215761,
+      "mac":"00:1b:1b:13:41:0e",
+      "id":"Public_IP_id_14",
+      "requestsCount":0,
+      "tags":[
+         {
+            "id":"Public IP",
+            "important":false,
+            "label":"Public IP_lable"
+         }
+      ],
+      "normalizedProperties":[
+         {
+            "key":"ip",
+            "value":"17.01.00.14"
+         },
+         {
+            "key":"mac",
+            "value":"00:1b:1b:13:41:0e"
+         },
+         {
+            "key":"name",
+            "value":"17.168.00.14"
+         },
+         {
+            "key":"public-ip",
+            "value":"no"
+         },
+         {
+            "key":"vendor-name",
+            "value":"Siemens AG,"
+         }
+      ],
+      "variablesCount":0,
+      "vulnerabilitiesCount":0
+   },
+   {
+      "ancestors":"None",
+      "credentialsCount":0,
+      "eventsCount":3,
+      "firstActivity":1633350215761,
+      "group":"None",
+      "ip":"17.01.00.15",
+      "label":"ADMIN_SERVER_lable",
+      "lastActivity":1633350215761,
+      "mac":"00:1b:1b:13:41:0f",
+      "id":"ADMIN_SERVER_id_15",
+      "requestsCount":0,
+      "tags":[
+         {
+            "id":"ADMIN_SERVER",
+            "important":false,
+            "label":"ADMIN_SERVER_lable"
+         }
+      ],
+      "normalizedProperties":[
+         {
+            "key":"ip",
+            "value":"17.01.00.15"
+         },
+         {
+            "key":"mac",
+            "value":"00:1b:1b:13:41:0f"
+         },
+         {
+            "key":"name",
+            "value":"17.168.00.15"
+         },
+         {
+            "key":"public-ip",
+            "value":"no"
+         },
+         {
+            "key":"vendor-name",
+            "value":"Siemens AG,"
+         }
+      ],
+      "variablesCount":0,
+      "vulnerabilitiesCount":0
+   }
+]
 }
