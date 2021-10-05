@@ -6,35 +6,35 @@
    "eventsCount":3,
    "firstActivity":1633350215761,
    "group":"None",
-   "ip":"17.01.00.05",
-   "label":"CITECT_ALARM_SERVER_Label",
+   "ip":"17.01.00.06",
+   "label":"ADMIN_SERVER_lable",
    "lastActivity":1633350215761,
-   "mac":"00:1b:1b:13:41:05",
-   "id":"CITECT_ALARM_SERVER_ID",
+   "mac":"00:1b:1b:13:41:06",
+   "id":"ADMIN_SERVER_id",
    "requestsCount":0,
    "tags":[
       {
-         "id":"CITECT_ALARM_SERVER",
+         "id":"ADMIN_SERVER",
          "important":false,
-         "label":"CITECT_ALARM_SERVER"
+         "label":"ADMIN_SERVER_lable"
       }
    ],
    "normalizedProperties":[
       {
          "key":"ip",
-         "value":"17.01.00.05"
+         "value":"17.01.00.06"
       },
       {
          "key":"mac",
-         "value":"00:1b:1b:13:41:05"
+         "value":"00:1b:1b:13:41:06"
       },
       {
          "key":"name",
-         "value":"17.168.00.05"
+         "value":"17.168.00.06"
       },
       {
          "key":"public-ip",
-         "value":"yes"
+         "value":"no"
       },
       {
          "key":"vendor-name",
