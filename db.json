@@ -1,15 +1,15 @@
 {
    "posts":[
-   {
+  {
    "ancestors":"None",
    "credentialsCount":0,
    "eventsCount":3,
    "firstActivity":1633350215761,
    "group":"None",
-   "ip":"17.01.00.139",
+   "ip":"17.01.00.01",
    "label":"ADMIN_SERVER",
    "lastActivity":1633350215761,
-   "mac":"00:1b:1b:13:41:01",
+   "mac":"00:1b:1b:13:41:02",
    "id":"ADMIN_SERVER",
    "requestsCount":0,
    "tags":[
@@ -22,15 +22,15 @@
    "normalizedProperties":[
       {
          "key":"ip",
-         "value":"17.01.00.139"
+         "value":"17.01.00.01"
       },
       {
          "key":"mac",
-         "value":"00:1b:1b:13:41:01"
+         "value":"00:1b:1b:13:41:02"
       },
       {
          "key":"name",
-         "value":"17.168.00.139"
+         "value":"17.168.00.01"
       },
       {
          "key":"public-ip",
