@@ -1,6 +1,6 @@
 {
    "posts":[
-  {
+ {
    "ancestors":"None",
    "credentialsCount":0,
    "eventsCount":3,
@@ -10,7 +10,7 @@
    "label":"ADMIN_SERVER",
    "lastActivity":1633350215761,
    "mac":"00:1b:1b:13:41:02",
-   "id":"ADMIN_SERVER",
+   "id":"ADMIN_SERVER_2",
    "requestsCount":0,
    "tags":[
       {
