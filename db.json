@@ -1,40 +1,40 @@
 {
    "posts":[
-   {
+  {
    "ancestors":"None",
    "credentialsCount":0,
    "eventsCount":3,
    "firstActivity":1633350215761,
    "group":"None",
-   "ip":"17.01.00.16",
-   "label":"CITECT_ALARM_SERVER_Label",
+   "ip":"17.01.00.18",
+   "label":"Public IP_lable",
    "lastActivity":1633350215761,
-   "mac":"00:1b:1b:13:41:10",
-   "id":"CITECT_ALARM_SERVER_ID_16",
+   "mac":"00:1b:1b:13:41:13",
+   "id":"Public_IP_id_18",
    "requestsCount":0,
    "tags":[
       {
-         "id":"CITECT_ALARM_SERVER",
+         "id":"Public IP",
          "important":false,
-         "label":"CITECT_ALARM_SERVER"
+         "label":"Public IP_lable"
       }
    ],
    "normalizedProperties":[
       {
          "key":"ip",
-         "value":"17.01.00.16"
+         "value":"17.01.00.18"
       },
       {
          "key":"mac",
-         "value":"00:1b:1b:13:41:10"
+         "value":"00:1b:1b:13:41:13"
       },
       {
          "key":"name",
-         "value":"17.168.00.16"
+         "value":"17.168.00.18"
       },
       {
          "key":"public-ip",
-         "value":"yes"
+         "value":"no"
       },
       {
          "key":"vendor-name",
